@@ -1,0 +1,159 @@
+.top-container{
+    background-color: #EAF6F6;
+    position:relative;
+    padding-top:100px;
+}
+
+.bottom-cloud{
+    position:absolute;
+    left:250px;
+    bottom:300px;
+}
+
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top:40px;
+}
+
+.intro{
+    color: #40514E;
+    width: 30%;
+    margin:auto;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-family: 'Mukta', sans-serif;
+    font-weight: normal;
+    padding-bottom: 10px;
+    margin:0;
+}
+
+body{
+    text-align: center;
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+    color: #40514E;
+    font-size: 16px;
+}
+
+
+.list{
+    margin-left: 195px;
+}
+
+.first{
+    width: 25%;
+    border-radius:50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.second{
+    width:30%;
+    float: right;
+    margin-left: 30px;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h3{
+    color: #11999E;
+    margin: 0;
+}
+
+.footer-link{
+    color: #11999E;
+}
+
+a{
+    color: #11999E;
+    font-family: 'Roboto', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+.skill-row{
+    width: 50%;
+    margin:95px auto 95px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+hr
+{
+    border-style:none;
+    border-width:6px;
+    width:4%;
+    border-color:#66BFBF;
+    border-bottom-style:dotted;
+    margin: 100px auto;
+}
+
+.Button {
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 107px;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 22px;
+   background-color: #3D94F6;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.Button:hover {
+   background: #337FED;
+   border: solid #FFFFFF 0;
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   text-decoration: none;
+}
+
+.last{
+    color: #40514E;
+    padding-bottom: 40px;
+}
+
+.bottom{
+    padding-bottom: 40px;
+}
+
+.middle-container{
+    margin:100px 0;
+}
+
+p{
+    line-height: 2;
+}
+
+.last-para{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
